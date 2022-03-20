@@ -16,5 +16,7 @@ console.log(tempoViagemCarro)
 console.log(paradaCaminhao)
 
 
+// a considerar que o caminhao chegara com tempo de 1hr e 25 minutos - 10 minutos de parada, o carro estara mais proximo da linha de chagada.
+
 
 
